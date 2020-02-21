@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\L1-.Net-TaskManager\L1-.Net-TaskManager.csproj" />
+    <ProjectReference Include="..\TaskManager.Models\TM_Models.csproj" />
+  </ItemGroup>
+
+</Project>
